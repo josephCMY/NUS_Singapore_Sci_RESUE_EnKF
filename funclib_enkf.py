@@ -1,8 +1,7 @@
 ###############################################################################
 # LIBRARY OF ENSEMBLE KALMAN FILTER UPDATE FUNCTIONS
-# AUTHORS: Man Yau Chan (1,2) , Bing Han (1,3), Liyang Tan (1,3)
-# ORGANIZATIONS: 1. National University of Singapore, International Genetically
-#                   Engineered Machine Competition 2018 Team
+# AUTHORS: Man-Yau Chan (1,2) , Biing Han Chia (1,3), Li Yang Tan (1,3)
+# ORGANIZATIONS: 1. Team NUS_Singapore_Sci, iGEM 2018
 #                2. The Pennsylvania State University, Department of Meteorology
 #                   and Atmospheric Sciences
 #                3. National University of Singapore, Special Programme in
@@ -21,7 +20,7 @@
 #                 I.e., mCherry concentration is index 13 and GFP-mCherry
 #                 concentration is index 14
 ###############################################################################
-# DOCUMENTATION: See documentation_rescue_enkf.pdf in the GitHub repository.
+# DOCUMENTATION: See RESCUE_EnKF_wiki.pdf in the GitHub repository.
 #                It should be available in this directory if you downloaded the
 #                repository.
 ###############################################################################
